@@ -1,7 +1,7 @@
 # Budget Tracker 💰
 
 A simple, interactive budget tracker built using HTML, CSS, and JavaScript.  
-Live Site: [Click here](https://yourusername.github.io/budget-tracker)
+Live Site: [Click here](https://aishugovindkarpro8.github.io/budget-tracker)
 
 ## Features
 - Add income and expenses
