@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: #f4f4f4;
+  }
+  .container {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: auto;
+  }
+  form input, form button {
+    margin: 5px 0;
+    width: 100%;
+    padding: 10px;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    margin: 8px 0;
+    background: #e2e2e2;
+    padding: 10px;
+    border-left: 5px solid green;
+  }
+  li.expense {
+    border-left-color: red;
+  }
+  
